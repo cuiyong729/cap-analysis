@@ -1,0 +1,7 @@
+install.packages("readr")
+install.packages("dplyr")
+install.packages("WeightIt")
+install.packages("cobalt")
+install.packages("fixest")
+install.packages("tidyr")
+install.packages("ggplot2")
